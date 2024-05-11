@@ -21,7 +21,7 @@ public class Tipos_Primitivos {
 
                 long_Obs {
                 Para inicializar uma variavel valor long, deve-se adicionar a caracter "L" no final da declaração;
-                exemplo( long a = 5_453_523_244_223L )
+                exemplo( long a = 5_453_523_244_223L );
             }
         }
 
@@ -35,7 +35,7 @@ public class Tipos_Primitivos {
 
             float_Obs {
                 Para inicializar uma variavel valor float, deve-se adicionar a caracter "F" no final da declaração;
-                exemplo( float a = 12.67F )
+                exemplo( float a = 12.67F );
             }
         }
     }
@@ -64,7 +64,7 @@ public class Tipos_Primitivos {
         Caracter {
             Definição: Um único caracter alfanumérico;
             Tipo: char;
-            Exemplos: ['A', '1', 'ç', ':', '?']
+            Exemplos: ['A', '1', 'ç', ':', '?'];
         }
 
         char_Obs {
@@ -74,7 +74,7 @@ public class Tipos_Primitivos {
         Booleano {
             Definição: Um valor lógico [Verdadeiro ou Falso];
             Tipo: boolean;
-            Exemplos: [true, false]
+            Exemplos: [true, false];
         }
     }
 */
