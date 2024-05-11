@@ -61,7 +61,7 @@ public class Tipos_Primitivos {
 
 /*
     Não_Numericos {
-        Caracter {
+        Caractere {
             Definição: Um único caracter alfanumérico;
             Tipo: char;
             Exemplos: ['A', '1', 'ç', ':', '?'];
@@ -79,7 +79,7 @@ public class Tipos_Primitivos {
     }
 */
 
-    //Exemplo caso de uso Boolean//
+    //Exemplo caso de uso Booleano e Caractere//
 
         char genero = 'F';
         boolean aptidao = true;
