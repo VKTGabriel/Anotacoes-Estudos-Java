@@ -1,4 +1,4 @@
-package Exercicios.Classes.Data;
+package Exercicios.Classes.Data.Segundo_Modelo;
 
 import javax.swing.*;
 

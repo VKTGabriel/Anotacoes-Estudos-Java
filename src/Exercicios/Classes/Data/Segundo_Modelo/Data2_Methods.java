@@ -1,4 +1,4 @@
-package Exercicios.Classes.Data;
+package Exercicios.Classes.Data.Segundo_Modelo;
 
 public class Data2_Methods {
     int dia,mes,ano;
