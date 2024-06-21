@@ -2,7 +2,7 @@ package Desafios;
 
 import javax.swing.*;
 
-public class Desafio_Media_notas {
+public class Desafio_While_Media_notas {
     public static void main(String[] args) {
         double nota = 0, media = 0;
         int alunos = 0;
