@@ -1,3 +1,5 @@
+package Anotacoes;
+
 public class Declaracao_Variaveis_Tipe_Real {
     public static void main(String[] args) {
 

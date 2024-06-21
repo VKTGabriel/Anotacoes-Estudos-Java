@@ -1,3 +1,5 @@
+package Anotacoes;
+
 public class Declaracao_Variaveis_Tipo_Caractere_e_Logico {
     public static void main(String[] args) {
 

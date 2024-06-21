@@ -1,3 +1,5 @@
+package Anotacoes;
+
 public class Declaracao_Variaveis_Tipo_Numeros_Inteiros {
     public static void main(String[] args) {
 
