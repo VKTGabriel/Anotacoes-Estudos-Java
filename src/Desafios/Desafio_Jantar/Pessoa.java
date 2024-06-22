@@ -1,4 +1,4 @@
-package Desafios.Jantar;
+package Desafios.Desafio_Jantar;
 
 public class Pessoa {
     String nome;

@@ -1,4 +1,4 @@
-package Desafios.Jantar;
+package Desafios.Desafio_Jantar;
 
 public class Comida {
     String nome;

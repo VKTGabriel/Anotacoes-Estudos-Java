@@ -1,4 +1,4 @@
-package Desafios.Jantar;
+package Desafios.Desafio_Jantar;
 
 import javax.swing.*;
 
