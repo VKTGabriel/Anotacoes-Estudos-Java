@@ -13,9 +13,7 @@ public class Matematica_Vetor_Teste {
             n[i] = Integer.parseInt(JOptionPane.showInputDialog("[Faltam " + (valor - i) + "] Digite um valor?"));
         }
 
-        int menor = m.menorEmVetor(n);
-        int maior = m.maiorEmVetor(n);
-        int soma = m.somaEmVetor(n);
+        int menor = m.menorEmVetor(n), maior = m.maiorEmVetor(n), soma = m.somaEmVetor(n);
         double media = m.mediaEmVetor(n);
         String print_Array = String.format("Array: %d", n[0]), saida = "";
 

@@ -1,6 +1,7 @@
 package Exercicios.Classes.Matematico;
 
 public class Matematica_Vetor {
+
     int maiorEmVetor (int[] a) {
         int maior = a[0];
         for (int i = 1; i < a.length; i++) {
@@ -29,8 +30,8 @@ public class Matematica_Vetor {
         return soma;
     }
 
-    double mediaEmVetor (int[] a) {
-        double soma = 0;
+    int mediaEmVetor (int[] a) {
+        int soma = 0;
         for (int i = 0; i < a.length; i++) {
             soma += a[i];
         }
